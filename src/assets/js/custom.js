@@ -4,6 +4,9 @@ Author: Wrappixel
 Email: niravjoshi87@gmail.com
 File: js
 */
+// Esta funcion es para forzar la ejecucion de este archivo al forzar el login
+function init_plugins() {
+
 $(function() {
     "use strict";
     $(function() {
@@ -155,3 +158,5 @@ $(function() {
     });
 
 });
+
+}
