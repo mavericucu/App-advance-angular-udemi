@@ -14,7 +14,7 @@ export class ProgressComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
- 
+
   }
 
 }
